@@ -1,5 +1,20 @@
 Guia de uso/alteração
 
+Cores da ID Elogroup
+
+	Primarias
+		Azul Elogroup - #1822DC
+		Off white - #F9F9F9
+		Preto - #272727
+		Cinza - #A5A7B0
+	Secundárias
+		Azul EloGroup 50% - #969DFF
+		Verde - #D9FBD6
+		Vermelho Claro - #FFC3BB
+		Laranja Claro - #FFDEBD
+		Roxo Claro - #E6D4F4
+		Azul Claro - #C9DCF2
+
 Inclusão dos cards de conteúdo e referências
 _data/cards
 
