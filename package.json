@@ -1,5 +1,6 @@
 {
   "name": "tshapeddev",
+  "background_color":"#1822DC",
   "version": "0.3",
   "main": "index.js",
   "repository": "git@github.com:alura/tshapeddev.git",

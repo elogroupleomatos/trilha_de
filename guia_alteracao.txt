@@ -1,0 +1,10 @@
+Guia de uso/alteração
+
+Inclusão dos cards de conteúdo e referências
+_data/cards
+
+	Criar um arquivo Markdown (.md) dentro de _data/downloadFiles/
+
+Alteração da página principal
+_data/locale
+

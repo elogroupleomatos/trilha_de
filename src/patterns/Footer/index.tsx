@@ -10,7 +10,7 @@ export default function Footer() {
       tag="footer"
       styleSheet={{
         color: "#fafafa",
-        backgroundColor: "#0450d1",
+        backgroundColor: pkg.background_color,
         alignItems: "center",
         padding: {
           xs: "4.9375em 0",
