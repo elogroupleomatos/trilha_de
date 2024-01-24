@@ -9,8 +9,8 @@ export default function Footer() {
     <Box
       tag="footer"
       styleSheet={{
-        color: "#8992a1",
-        backgroundColor: "#080f1b",
+        color: "#fafafa",
+        backgroundColor: "#0450d1",
         alignItems: "center",
         padding: {
           xs: "4.9375em 0",
@@ -36,15 +36,15 @@ export default function Footer() {
           <Link href="/">
             <Image
               styleSheet={{
-                width: { xs: "69px", md: "45px" },
-                height: { xs: "69px", md: "45px" },
+                width: { xs: "69px", md: "60px" },
+                height: { xs: "69px", md: "60px" },
                 marginBottom: {
                   xs: "2.5em",
                   md: "0",
                 },
               }}
               src="/assets/image/logo.svg"
-              alt="Logo da plataforma Tech Guide"
+              alt="Logo Elogroup"
             />
           </Link>
         </Box>
@@ -72,7 +72,7 @@ export default function Footer() {
             }}
           >
             {i18n.content("FOOTER.DESCRIPTION")}
-            {pkg.version}
+            {pkg.version} 
           </Text>
           <Text
             tag="p"
@@ -87,27 +87,8 @@ export default function Footer() {
                 color: "#FFFFFF",
               }}
             >
-              Alura,
+              Elogroup
             </Link>{" "}
-            <Link
-              href="https://www.cursospm3.com.br/"
-              styleSheet={{
-                textDecoration: "none",
-                color: "#FFFFFF",
-              }}
-            >
-              PM3
-            </Link>{" "}
-            e{" "}
-            <Link
-              href="https://www.fiap.com.br/"
-              styleSheet={{
-                textDecoration: "none",
-                color: "#FFFFFF",
-              }}
-            >
-              FIAP
-            </Link>
           </Text>
           <Text>
             {i18n.content("FOOTER.OPEN_SOURCE_CTA", {
@@ -139,18 +120,8 @@ export default function Footer() {
             tag="ul"
           >
             <Box tag="li">
-              <Link href={i18n.content("FOOTER.YOUTUBE")}>
-                <Icon name="youtube" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.FACEBOOK")}>
-                <Icon name="facebook" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.TWITTER")}>
-                <Icon name="twitter" />
+              <Link href={i18n.content("FOOTER.LINKEDIN")}>
+                <Icon name="linkedin" />
               </Link>
             </Box>
             <Box tag="li">
@@ -159,18 +130,13 @@ export default function Footer() {
               </Link>
             </Box>
             <Box tag="li">
-              <Link href={i18n.content("FOOTER.PLAYSTORE")}>
-                <Icon name="playstore" />
+              <Link href={i18n.content("FOOTER.PODCAST")}>
+                <Icon name="podcast" />
               </Link>
             </Box>
             <Box tag="li">
-              <Link href={i18n.content("FOOTER.APPSTORE")}>
-                <Icon name="appstore" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.TIKTOK")}>
-                <Icon name="tiktok" />
+              <Link href={i18n.content("FOOTER.YOUTUBE")}>
+                <Icon name="youtube" />
               </Link>
             </Box>
           </Box>

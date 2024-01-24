@@ -1,20 +1,20 @@
 /* eslint-disable prettier/prettier */
 export default {
-  "HEAD.TITLE": "Tech Guide: guias do Profissional em T",
+  "HEAD.TITLE": "Trilha de conhecimento: guias para os profissionais de Engenharia de Dados",
   "HEAD.DESCRIPTION": "Encontre o guia perfeito para a sua carreira de tecnologia. Dicas, sugestões, prioridades e links para conteúdo. Tudo isso com a abordagem do profissional em T.",
   "HEAD.SHARE_IMAGE": "https://techguide.sh/assets/image/share-image.jpg",
   "MENU.LOGO_ALT": "Logo Tech Guide Alura",
   "MENU.CTA_TEXT": "<Emoji name='fire'/> Monte seu &lt;T&gt;",
-  "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Guie sua carreira!",
-  "SCREEN_HERO_CONTAINER.TITLE": "Descubra possíveis caminhos<br /> para se tornar profissional <strong>&lt;em T&gt;</strong>",
-  "SCREEN_HERO_CONTAINER.SUB_TITLE": "A Alura criou o TechGuide.sh para ajudar na sua jornada de aprendizado. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.",
+  "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Aprenda Engenharia de Dados!",
+  "SCREEN_HERO_CONTAINER.TITLE": "Uma lista de conteúdos <br /> para ajudar na sua carreira de <strong>&lt;Engenharia de Dados&gt;</strong>",
+  "SCREEN_HERO_CONTAINER.SUB_TITLE": "Esse guia é uma iniciativa do Studio de DE para difundir referências de conehcimento para o time de Engenharia de Dados da Elogroup, tranzendo sugestão de conteúdos e temas para estudo.",
 
   "SCREEN_HERO_CONTAINER.FIRST_SECTION.TITLE": "Um guia em formato de &ltT&gt;",
-  "SCREEN_HERO_CONTAINER.FIRST_SECTION.SUB_TITLE": "Profissionais em &lt;T&gt; têm profundidade (especialistas) em uma determinada área, além de possuírem conhecimento generalista em assuntos auxiliares.",
-  "SCREEN_HERO_CONTAINER.FIRST_SECTION.BTN": "Selecionar minha carreira!",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.TITLE": "Descubra o que dominar em diferentes momentos da sua carreira",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.SUB_TITLE": "Dependendo da sua carreira e da sua senioridade, cada tecnologia tem um peso diferente. Saiba a nossa opinião, baseada no mercado, de o que estudar e o quanto estudar.",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.BTN": "Selecionar minha carreira!",
+  "SCREEN_HERO_CONTAINER.FIRST_SECTION.SUB_TITLE": "O guia em &lt;T&gt; se organiza em conhecimentos fundamentais para a carreira no eixo central, acompanhado de conhecimentos generalistas/secundários como secundários.",
+  "SCREEN_HERO_CONTAINER.FIRST_SECTION.BTN": "Selecione a sua carreira!",
+  "SCREEN_HERO_CONTAINER.SECOND_SECTION.TITLE": "Conteúdos para dominar em diferentes momentos da sua carreira",
+  "SCREEN_HERO_CONTAINER.SECOND_SECTION.SUB_TITLE": "Dependendo da sua carreira e da sua senioridade, cada tecnologia tem um peso diferente. Saiba a nossa visão, baseada no nas réguas de competência da Elogroup, de o que e quando estudar.",
+  "SCREEN_HERO_CONTAINER.SECOND_SECTION.BTN": "Selecione a sua carreira!",
 
   "FEATURE_FLAG.BUILD_YOUR_T": false,
   "PATH.T_BLOCK_SUGGESTED_CONTENT": "Conteúdo Recomendado",
@@ -34,7 +34,7 @@ export default {
   "PATH.T_BLOCK_SUGGESTED_CONTENT.YOUTUBE.BG": "#FF0000",
   "PATH.T_BLOCK_SUGGESTED_CONTENT.YOUTUBE.COLOR": "#FFFFFF",
 
-  "PATH.T_BLOCK_SUGGESTED_CONTENT.PODCAST.LABEL": "Podcast",
+  "PATH.T_BLOCK_SUGGESTED_CONTENT.PODCAST.LABEL": "DE Academy",
   "PATH.T_BLOCK_SUGGESTED_CONTENT.PODCAST.BG": "#AB7EE4",
   "PATH.T_BLOCK_SUGGESTED_CONTENT.PODCAST.COLOR": "#300031",
 
@@ -54,42 +54,42 @@ export default {
   "PATH.T_BLOCK_SUGGESTED_CONTENT.BOOK.BG": "#CADCEA",
   "PATH.T_BLOCK_SUGGESTED_CONTENT.BOOK.COLOR": "#333333",
 
-  "TSHAPE.DEPTH.LEVEL_NAME": "Nível",
-  "TSHAPE.DEPTH.LEVEL_SUFIX": "de profundidade",
+  "TSHAPE.DEPTH.LEVEL_NAME": "Momento",
+  "TSHAPE.DEPTH.LEVEL_SUFIX": "de carreira",
 
   "TSHAPE.BUTTON.BACK_TO_HOME": "<Icon name='arrowLeft' /> Voltar para seleção de carreiras",
   "TSHAPE.BUTTON.DOWNLOAD_T_FILE": "Baixar esse guia",
 
-  "FOOTER.DESCRIPTION": "Desenvolva sua Carreira em &lt;T&gt; · Versão: ",
-  "FOOTER.OPEN_SOURCE_CTA": "O Techguide.sh é um projeto open source, <Link href='https://github.com/alura/techguide' text='confira nosso README' />",
+  "FOOTER.DESCRIPTION": "Trilha de conhecimentos DE · Versão: ",
+  "FOOTER.OPEN_SOURCE_CTA": "Baseado no Techguide.sh. Um projeto open source disponível em:  <Link href='https://github.com/alura/techguide' text='GitHub Techguide.sh' />",
   "FOOTER.BRING_BY": "Trazido por",
 
-  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas frequentes sobre o TechGuide.sh",
+  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas frequentes sobre esse guia",
   "FAQ.GLOBAL": [
     {
-      "title": "01 - O que é o TechGuide.sh?",
+      "title": "01 - O que é a Trilha de conhecimento?",
       "answer":
-        "O TechGuide.sh é uma iniciativa da Alura para mapear as necessidades mais comuns em cada profissional de tecnologia, direcionando tanto alunos e alunas quanto a própria escola com novos cursos, conteúdos, podcasts e artigos. Nós seguimos a abordagem do profissional em T, sendo um guia norteador e abrindo mais possibilidades de caminhos, ordem de aprendizado e os motivos de aprender cada um dos itens (cards) em um guia."
+        "Uma iniciativa do Studio de DE para mapear as necessidades mais comuns em cada profissional de Engenharia de Dados, direcionando os colaboradores com cursos, conteúdos, podcasts e artigos."
     },
     {
-      "title": "02 - O que é o profissional em T?",
+      "title": "02 - O que é um guia em T?",
       "answer":
-        "É um profissional que, além da sua especialidade (parte profunda do T), também tem um certo conhecimento em outras áreas (laterais do T) que podem facilitar seu próprio trabalho ou o trabalho em equipe. No site do Dev em T da Alura há bastante a respeito, além de artigos e podcasts: <a href='https://alura.com.br/dev-em-t'>https://alura.com.br/dev-em-t</a>"
+        "É um guia que contém, além de conhecimentos especializados (parte profunda do T), também conhecimentos em outras áreas (laterais do T) que podem melhorar seu desenvolvimento na carreira de engenharia."
     },
     {
-      "title": "03 - Devo começar a estudar pela parte profunda ou horizontal do T?",
+      "title": "03 - Por onde devo começar a estudar?",
       "answer":
-        "A nossa recomendação é que você se foque mais na parte profunda do T, mas sem deixar de lado as laterais também. A ordem de quando estudar o que é você quem vai decidir, mas queremos ser um guia para te ajudar a orientar essas escolhas."
+        "A nossa recomendação é que você se foque na sua carreira atual e, prioritariamente na parte profunda do T, mas sem deixar de lado as laterais também. A ordem de quando estudar o que é você quem vai decidir, mas queremos ser um guia para te ajudar a orientar essas escolhas."
     },
     {
       "title": "04 - Posso sugerir novas carreiras?",
       "answer":
-        "Sim! Use o mecanismo de contribuição do nossos repositório no <a href='https://github.com/alura/techguide'>Github</a>. Neste momento, estamos focados em corrigir erros e melhorar as carreiras existentes."
+        "Sim! Acione o time do Studio de DE: Leonardo Matos, Olavo Santana, Rafael Cabral ou Fábio Catein, para trazer suas sugestões. Neste momento, estamos focados em incrementar os conhecimentos e alinhá-los às competência da régua de cada carreira  de DE."
     },
     {
       "title": "05 - Posso sugerir alterações ou correções?",
       "answer":
-        "Sim! Contribuições são bem vindas. Para isso, use o mecanismo de contribuição do nossos repositório no <a href='https://github.com/alura/techguide'>Github</a>."
+        "Sim! Contribuições são bem vindas. Acione o time do Studio de DE: Leonardo Matos, Olavo Santana, Rafael Cabral ou Fábio Catein."
     }
   ],
   "GUIDES.SHOW_ALL": "Ver todos",
@@ -101,35 +101,37 @@ export default {
       "value": "all"
     },
     {
-      "label": "Front-end",
+      "label": "Analistas de dados júnior",
       "value": "front-end"
     },
     {
-      "label": "Back-end",
+      "label": "Analista de dados pleno",
       "value": "back-end"
     },
     {
-      "label": "Mobile",
+      "label": "Engenheiro de dados júnior",
       "value": "mobile"
     },
     {
-      "label": "Dados",
+      "label": "Engenheiro de dados pleno",
       "value": "data"
     },
     {
-      "label": "Outros",
+      "label": "Engenheiro de dados sênior",
       "value": "others"
     },
   ],
   "IMAGES.DISCOVER_IMAGE": "/assets/image/discover-illustration.svg",
-  "FOOTER.YOUTUBE": "https://youtube.com/aluracursosonline",
-  "FOOTER.FACEBOOK": "https://www.facebook.com/AluraCursosOnline/",
-  "FOOTER.INSTAGRAM": "https://www.instagram.com/aluraonline/",
-  "FOOTER.TWITTER": "https://twitter.com/aluraonline",
-  "FOOTER.PLAYSTORE": "https://play.google.com/store/apps/details?id=br.com.alura.mobi",
-  "FOOTER.APPSTORE": "https://apps.apple.com/br/app/alura-cursos-online/id1225776635",
-  "FOOTER.TIKTOK": "https://www.tiktok.com/@aluraonline",
-  "FOOTER.ALURA.LINK": "https://www.alura.com.br/",
+  "FOOTER.YOUTUBE": "http://youtube.com/ELOGroupTV",
+  "FOOTER.FACEBOOK": "",
+  "FOOTER.INSTAGRAM": "https://www.instagram.com/ojeitoelogroup/",
+  "FOOTER.TWITTER": "http://anchor.fm/elogroup-podcasts",
+  "FOOTER.PLAYSTORE": "",
+  "FOOTER.APPSTORE": "",
+  "FOOTER.PODCAST": "http://anchor.fm/elogroup-podcasts",
+  "FOOTER.LINKEDIN": "http://linkedin.com/company/elo-group",
+  "FOOTER.TIKTOK": "",
+  "FOOTER.ALURA.LINK": "https://elogroup.com.br/",
   "MY.GENERATE_GUIDE": "Gerando seu guia...",
   "COMPANIES": [
     {

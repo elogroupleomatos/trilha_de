@@ -30,13 +30,13 @@ export default function Menu() {
             src="/assets/image/logo.svg"
             alt={i18n.content("MENU.LOGO_ALT")}
             styleSheet={{
-              width: "29px",
-              height: "29px",
+              width: "45px",
+              height: "45px",
             }}
           />
         </Link>
         <iframe
-          src="https://ghbtns.com/github-btn.html?user=alura&repo=techguide&type=star&count=true"
+          src="https://ghbtns.com/github-btn.html?user=elogroupleomatos&repo=trilhade&type=star&count=true"
           frameBorder="0"
           scrolling="0"
           width="110"

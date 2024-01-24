@@ -9,3 +9,5 @@ export { default as twitter } from "./twitter";
 export { default as tiktok } from "./tiktok";
 export { default as arrowUp } from "./arrowUp";
 export { default as arrowLeft } from "./arrowLeft";
+export { default as podcast } from "./podcast";
+export { default as linkedin } from "./linkedin";

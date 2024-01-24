@@ -1,6 +1,6 @@
 # Android
 ## Nivel 1
-- [ ] **Kotlin - Fundamentos**:
+- [ ] **Teste - Fundamentos**:
    - Kotlin é uma linguagem de programação multiplataforma, orientada a objetos, funcional e estaticamente tipada. Ela compila para a máquina virtual Java e também pode ser traduzida para a linguagem JavaScript e compilada para código nativo (via LLVM). É a linguagem oficial do sistema Android da Google.
    - Entender a sua sintaxe
    - Conhecer os tipos primitivos

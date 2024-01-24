@@ -23,6 +23,7 @@ module.exports = {
   rules: {
     "no-console": "error",
     "@next/next/no-html-link-for-pages": "off",
+    'prettier/prettier': ['off', { singleQuote: true }],
   },
   settings: {
     react: {
