@@ -187,27 +187,27 @@ function Item({ onClick, categoryName, index, main, card, extra }: any) {
         textAlign: "center",
         ...(main && {
           background:
-            "linear-gradient( 123.51deg, rgba(255, 255, 255, 0.4) -14.11%, rgba(255, 255, 255, 0.4) -14.11%, rgba(255, 255, 255, 0) 86.78% )",
+            "linear-gradient( 123.51deg, #4a4e94 0%, #292f91 80% )",
         }),
         border: 0,
         ...(!main && {
-          borderLeft: "1px solid #f5fbf213",
-          borderRight: "1px solid #f5fbf244",
+          borderLeft: "1px solid #74b9ff",
+          borderRight: "1px solid #0984e3",
           backgroundImage:
-            "linear-gradient(90deg, #f5fbf213, #f5fbf244), linear-gradient(90deg, #f5fbf213, #f5fbf244)",
+            "linear-gradient(90deg, #74b9ff, #0984e3), linear-gradient(90deg, #74b9ff, #0984e3)",
           backgroundSize: "100% 1px",
           backgroundPosition: "0 0, 0 100%",
           backgroundRepeat: "no-repeat",
         }),
         hover: {
           ...(!main && {
-            border: "1px solid transparent",
+            border: "1px solid #1822DC",
           }),
-          color: "#03c2e0",
-          background: "rgba(3, 194, 224, 0.2)",
-          backdropFilter: "blur(0.9159rem)",
+          color: "#abc9eb",
+          background: "#081729",
+          backdropFilter: "blur(0.7rem)",
           cursor: "pointer",
-          boxShadow: "inset 0 0 0 1px #03c2e0",
+          boxShadow: "inset 0 0 0 1px #C9DCF2",
         },
       }}
     >
@@ -236,6 +236,7 @@ function Item({ onClick, categoryName, index, main, card, extra }: any) {
         <Box
           styleSheet={{
             position: "absolute",
+            color: "#FFDEBD",
             zIndex: 1,
             bottom: "8px",
             right: "8px",

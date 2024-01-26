@@ -9,7 +9,7 @@ export default function SecondContentSection() {
       tag="section"
       className="discover"
       styleSheet={{
-        background: "linear-gradient(180deg, #101926 0%, #010d1a 62.08%)",
+        background: "linear-gradient(180deg, #02042e 0%, #000000 62.08%)",
         color: "#fff",
         paddingTop: {
           md: "3.5em",
@@ -27,7 +27,7 @@ export default function SecondContentSection() {
           width: "100%",
           minHeight: {
             xs: "initial",
-            md: "580px",
+            md: "650px",
           },
           paddingTop: {
             xs: "3.5em",

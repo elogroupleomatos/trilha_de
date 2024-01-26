@@ -12,8 +12,8 @@ const StyledText = styled(Text)<any>`
     content: "";
     width: 100%;
     height: 100%;
-    background: linear-gradient(145.25deg, #6affff 4.09%, #00aec9 81.45%);
-    box-shadow: 0px 11px 51px #127797;
+    background: linear-gradient(145.25deg, #1822DC 4.09%, #1822DC 81.45%);
+    box-shadow: 0px 5px 51px #969DFF;
     border-radius: 14px;
     cursor: pointer;
     position: absolute;
@@ -79,16 +79,16 @@ export function GuidesFilter({ filter, setFilter }: GuidesFilterProps) {
               xs: "13px",
               md: "16px",
             },
-            borderRadius: "10px",
+            borderRadius: "8px",
             padding: "14px",
-            border: "1px solid #3D454B",
+            border: "1px solid #1822DC",
             fontWeight: "600",
-            color: filter === value ? "#07101A" : "#FFFFFF",
-            backgroundColor: filter === value ? "#34D5E3" : "transparent",
+            color: filter === value ? "#FAFAFA" : "#FFFFFF",
+            backgroundColor: filter === value ? "#1822DC" : "transparent",
             transition: "all 0.2s ease-in-out",
-            hover: {
-              color: "#07101A",
-              backgroundColor: "#34D5E3",
+            hover: {      
+              color: "#FAFAFA",
+              backgroundColor: "#1822DC",
             },
           }}
           role="tab"

@@ -62,37 +62,52 @@ collaboration:
     cards:
       - git-and-github-fundamentals:
         priority: 10
+        optional: true
       - http-fundamentals:
         priority: 10
+        optional: true
       - json:
         priority: 8
+        optional: true
       - design-patterns:
         priority: 7
+        optional: true
       - command-line-fundamentals:
         priority: 7
+        optional: true
       - cloud-fundamentals:
         priority: 6
         optional: true
       - solid:
         priority: 6
+        optional: true
       - clean-architecture:
         priority: 6
+        optional: true
       - firebase:
         priority: 8
+        optional: true
   - name: UX & Design
     cards:
       - material-design:
         priority: 9
+        optional: true
       - design-systems:
         priority: 6
+        optional: true
       - color-systems:
         priority: 7
+        optional: true
       - how-to-use-fonts:
         priority: 7
+        optional: true
       - responsive-design:
         priority: 7
+        optional: true
       - android-accessibility:
         priority: 7
+        optional: true
       - figma-fundamentals:
         priority: 7
+        optional: true
 video: https://www.youtube.com/watch?v=Jt6cRnki-IE&list=PLh2Y_pKOa4UeBQNf1JQzc4SfegYR0gO-N&index=6&ab_channel=Alura

@@ -30,9 +30,10 @@ const Text = React.forwardRef(
     ref
   ) => {
     const i18n = useI18n();
-    const Tag = tag || "p";
+    const Tag = "div";
     const i18nChildren = i18n.content(i18nKey, i18nKeyReplace);
     return (
+      
       <BaseComponent
         ref={ref}
         as={Tag}

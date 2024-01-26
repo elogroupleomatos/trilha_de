@@ -7,6 +7,7 @@ Cores da ID Elogroup
 		Off white - #F9F9F9
 		Preto - #272727
 		Cinza - #A5A7B0
+		
 	Secundárias
 		Azul EloGroup 50% - #969DFF
 		Verde - #D9FBD6

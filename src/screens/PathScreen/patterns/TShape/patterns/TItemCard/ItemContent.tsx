@@ -19,9 +19,9 @@ export default function ItemContent({
     <Box
       styleSheet={{
         flex: 1,
-        maxWidth: "639px",
+        maxWidth: "600px",
         width: "100%",
-        background: "linear-gradient(180deg, #091229 0%, #090B19 100%)",
+        background: "linear-gradient(180deg, #030426 20%, #03074d 70%)",
         boxShadow: "-15px 19px 34px #00070B",
         borderRadius: "8px 0px 0px 8px",
         flexDirection: "row",
@@ -36,13 +36,14 @@ export default function ItemContent({
             xs: "40px",
             md: "70px",
           },
+          height: "100%",
           position: "relative",
           color: "#FFFFFF",
           fontWeight: 400,
           alignItems: "center",
           backgroundAttatchment: "fixed",
           background:
-            "linear-gradient(180deg, rgba(62, 180, 231, 0.8) 8.34%, rgba(117, 236, 234, 0.8) 32.88%, rgba(11, 12, 34, 0.8) 100%)",
+            "linear-gradient(180deg, #969DFF 25%, #1822DC 60%, #03074d 100%)",
         }}
       >
         <Text
@@ -85,11 +86,6 @@ export default function ItemContent({
               },
             }}
           >
-            {/* TODO: Add after first release */}
-            {/* <span>
-              Marcar como{" "}
-              <strong style={{ color: "#88B8DB" }}>concluída</strong>
-            </span> */}
           </Box>
           <Box
             styleSheet={{
@@ -151,7 +147,7 @@ export default function ItemContent({
                 marginBottom: "17px",
                 fontSize: "14px",
                 fontWeight: "600",
-                color: "#88B8DB",
+                color: "#FFDEBD",
                 alignItems: "center",
                 display: "flex",
                 flexDirection: "row",
@@ -159,7 +155,7 @@ export default function ItemContent({
                 textTransform: "uppercase",
               }}
             >
-              <OptionalIcon color="#AFAEBA" size="19px" />{" "}
+              <OptionalIcon color="#FFDEBD" size="19px" />{" "}
               {(i18n.content("TSHAPE.OPTIONAL.DESCRIPTION") as string).replace(
                 "= ",
                 ""

@@ -24,7 +24,7 @@ export default function ScreenHeroContainer({
         styleSheet={{
           flex: 1,
           justifyContent: "flex-start",
-          background: "linear-gradient(180deg, #0f1825 0%, #010a11 62.08%)",
+          background: "linear-gradient(180deg, #000000 0%, #010a11 62.08%)",
           overflow: "hidden",
         }}
       >
@@ -59,7 +59,7 @@ export default function ScreenHeroContainer({
                   md: "flex",
                 },
                 top: "10rem",
-                left: "-20rem",
+                left: "-30rem",
                 width: "45.4375rem",
                 height: "65.875rem",
                 position: "absolute",
@@ -88,7 +88,7 @@ export default function ScreenHeroContainer({
                   md: "flex",
                 },
                 top: "12rem",
-                right: "-20rem",
+                right: "-30rem",
                 transform: "scaleX(-1)",
                 width: "45.4375rem",
                 height: "65.875rem",
@@ -103,7 +103,7 @@ export default function ScreenHeroContainer({
           </Box>
         </Box>
       </Box>
-      <FirstContentSection />
+      {/*<FirstContentSection />*/}
       <SecondContentSection />
       <FAQContentSection questions={guide?.faq} />
       <Footer />

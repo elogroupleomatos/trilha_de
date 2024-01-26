@@ -21,7 +21,7 @@ export default function FAQContentSection(props: FAQQuestionProps) {
     <Box
       styleSheet={{
         display: questions?.length <= 1 ? "none" : "block",
-        background: "#101926",
+        background: "#02042e",
         justifyContent: "center",
       }}
       tag="section"
@@ -77,12 +77,12 @@ export default function FAQContentSection(props: FAQQuestionProps) {
         >
           <Text
             styleSheet={{
-              background: "#101926",
+              background: "#02042e",
               fontWeight: 600,
               textAlign: { xs: "center", sm: "center", md: "left" },
               fontSize: { xs: "24px", sm: "38px", md: "48px" },
               letterSpacing: "-0.01em",
-              color: "#F2F0FF",
+              color: "#f9f9f9",
               marginBottom: {
                 xs: "0",
                 sm: "0",
@@ -131,7 +131,7 @@ function FAQQuestion({ title, answer }: any) {
   return (
     <Box
       styleSheet={{
-        borderBottom: "1px solid #1B2431",
+        borderBottom: "1px solid #A5A7B0",
       }}
     >
       <Box
@@ -185,7 +185,7 @@ function FAQQuestion({ title, answer }: any) {
           >
             <path
               d="M17 10L9 2L1 10"
-              stroke="#03C2E0"
+              stroke="#C9DCF2"
               strokeWidth="2"
               strokeLinecap="round"
             />

@@ -4,7 +4,7 @@ import { StyleSheet } from "@skynexui/responsive_stylesheet";
 
 interface BoxProps {
   id?: string;
-  tag?: "main" | "div" | "article" | "section" | "ul" | string;
+  tag?: "main" | "div" | "article" | "section" |"ul" | string;
   children?: React.ReactNode;
   className?: string;
   styleSheet?: StyleSheet;

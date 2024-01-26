@@ -26,8 +26,8 @@ const StyledBox = styled.li<any>`
     content: "";
     width: 100%;
     height: 100%;
-    background: linear-gradient(145.25deg, #6affff 4.09%, #00aec9 81.45%);
-    box-shadow: 0px 11px 51px #127797;
+    background: linear-gradient(145.25deg, #1822DC 4.09%, #1b2087 81.45%);
+    box-shadow: 0px 11px 51px #1822DC;
     border-radius: 14px;
     cursor: pointer;
     position: absolute;
@@ -174,7 +174,7 @@ function ListOfGuides({ children }: { children: React.ReactNode }) {
         },
         width: "100%",
         zIndex: "2",
-        border: "1px solid #6affff",
+        border: "1px solid #1822DC",
       }}
     >
       {children}

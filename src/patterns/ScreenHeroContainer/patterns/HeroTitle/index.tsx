@@ -25,7 +25,7 @@ export default function HeroTitle() {
           justifyContent: "center",
           textTransform: "uppercase",
           color: "#8992a1",
-          fontWeight: "600",
+          fontWeight: "500",
           fontSize: "0.875rem",
           lineHeight: "180%",
           backgroundColor: "rgba(0, 0, 0, 0.5)",
@@ -59,7 +59,7 @@ export default function HeroTitle() {
               tag="strong"
               styleSheet={{
                 color: "white",
-                background: "linear-gradient(to right, #39F6EB, #1184EF)",
+                background: "linear-gradient(to right, #E6D4F4, #2684f0)",
                 "-webkit-background-clip": "text",
                 "-webkit-text-fill-color": "transparent",
               }}

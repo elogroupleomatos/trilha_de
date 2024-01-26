@@ -2,11 +2,10 @@
 export default {
   "HEAD.TITLE": "Trilha de conhecimento: guias para os profissionais de Engenharia de Dados",
   "HEAD.DESCRIPTION": "Encontre o guia perfeito para a sua carreira de tecnologia. Dicas, sugestões, prioridades e links para conteúdo. Tudo isso com a abordagem do profissional em T.",
-  "HEAD.SHARE_IMAGE": "https://techguide.sh/assets/image/share-image.jpg",
-  "MENU.LOGO_ALT": "Logo Tech Guide Alura",
-  "MENU.CTA_TEXT": "<Emoji name='fire'/> Monte seu &lt;T&gt;",
+  "HEAD.SHARE_IMAGE": "",
+  "MENU.LOGO_ALT": "Logo Elogroup",
   "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Aprenda Engenharia de Dados!",
-  "SCREEN_HERO_CONTAINER.TITLE": "Uma lista de conteúdos <br /> para ajudar na sua carreira de <strong>&lt;Engenharia de Dados&gt;</strong>",
+  "SCREEN_HERO_CONTAINER.TITLE": "Conteúdos da carreira de <strong>&lt;Engenharia de Dados&gt;</strong>",
   "SCREEN_HERO_CONTAINER.SUB_TITLE": "Esse guia é uma iniciativa do Studio de DE para difundir referências de conehcimento para o time de Engenharia de Dados da Elogroup, tranzendo sugestão de conteúdos e temas para estudo.",
 
   "SCREEN_HERO_CONTAINER.FIRST_SECTION.TITLE": "Um guia em formato de &ltT&gt;",
@@ -64,7 +63,7 @@ export default {
   "FOOTER.OPEN_SOURCE_CTA": "Baseado no Techguide.sh. Um projeto open source disponível em:  <Link href='https://github.com/alura/techguide' text='GitHub Techguide.sh' />",
   "FOOTER.BRING_BY": "Trazido por",
 
-  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas frequentes sobre esse guia",
+  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas frequentes sobre a trilha",
   "FAQ.GLOBAL": [
     {
       "title": "01 - O que é a Trilha de conhecimento?",
@@ -125,7 +124,7 @@ export default {
   "FOOTER.YOUTUBE": "http://youtube.com/ELOGroupTV",
   "FOOTER.FACEBOOK": "",
   "FOOTER.INSTAGRAM": "https://www.instagram.com/ojeitoelogroup/",
-  "FOOTER.TWITTER": "http://anchor.fm/elogroup-podcasts",
+  "FOOTER.TWITTER": "",
   "FOOTER.PLAYSTORE": "",
   "FOOTER.APPSTORE": "",
   "FOOTER.PODCAST": "http://anchor.fm/elogroup-podcasts",
@@ -134,58 +133,8 @@ export default {
   "FOOTER.ALURA.LINK": "https://elogroup.com.br/",
   "MY.GENERATE_GUIDE": "Gerando seu guia...",
   "COMPANIES": [
-    {
-      "githubUser": "bancodobrasil",
-      "name": "Banco do Brasil",
-      "logo": "/assets/image/company/bb.png",
-      "description":
-        "Estes guias foram criados pelo <strong>Banco do Brasil</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guideDescription": "Este guia foi criado pelo <strong>Banco do Brasil</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guides": [
-        {
-          "title": "Front-end Web",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/frontend-web.json",
-        },
-        {
-          "title": "Mobile iOS",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/mobile-ios.json",
-        },
-        {
-          "title": "Mobile DevOps",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/mobile-devops.json",
-        },
-      ],
-    },
-    {
-      "githubUser": "holding-digital",
-      "name": "Dasa",
-      "logo": "/assets/image/company/dasa.png",
-      "description":
-        "Estes guias foram criados pela <strong>Dasa</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guideDescription": "Este guia foi criado pela <strong>Dasa</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guides": [
-        {
-          "title": "Back-end - NodeJS",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/backend.json",
-        },
-        {
-          "title": "Qualidade de Software",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/quality-assurance.json",
-        },
-        {
-          "title": "Front-end Web",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/frontend-web.json",
-        },
-        {
-          "title": "Front-end Mobile",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/frontend-mobile.json",
-        },
-      ],
-    }
+
   ],
-  "TSHAPE.GUIDE.VIDEO.TITLE": "Quer se aprofundar ainda mais no assunto?",
-  "TSHAPE.GUIDE.VIDEO.DESCRIPTION": "Para complementar esse Guia e te ajudar no seu caminho, nós conversamos sobre os detalhes e desafios dessa jornada e o resultado você pode acompanhar em vídeo.",
-  "TSHAPE.GUIDE.VIDEO.CTA": "Legal né? Dá o play pra conferir!",
   "TSHAPE.OPTIONAL.DESCRIPTION": "= Conteúdo opcional",
   "DEMO": "DEMO"
 }
