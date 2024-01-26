@@ -1,8 +1,8 @@
 # `Trilha de conhecimento DE`
 
-A trilha de O TechGuide.sh é uma iniciativa da Alura para mapear as  necessidades mais comuns em cada profissional de tecnologia, direcionando tanto alunos e alunas quanto a própria escola com novos cursos, conteúdos, podcasts e artigos. 
+A trilha de conhecimento em DE é uma iniciativa do Sutdio de Engenharia de Dados para mapear as  necessidades mais comuns em cada profissional engenharia, direcionando os colaboradores quanto aos cursos, conteúdos, podcasts e artigos relavantes ao longo da carreira. 
 
-A gente se inspirou no também opensource http://roadmap.sh, porém usando a abordagem do profissional em T, abrindo mais possibilidades de caminhos e ordenação. Também queremos ter mais descritivos explicando o porquê de aprender cada um daqueles itens (cards) e fechar mais o escopo de cada um.
+Nós nos inspiramos guia opensource http://techguide.sh, utlizando a abordagem do profissional em T, abrindo mais possibilidades de caminhos e ordenação.
 
 # FAQ/Perguntas Frequentes
 
