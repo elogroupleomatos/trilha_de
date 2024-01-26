@@ -7,8 +7,8 @@ permissions: write-all
 
 env: 
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  COMMIT_USERNAME: "CI Bot - DevSoutinho"
-  COMMIT_EMAIL: "13791385+omariosouto@users.noreply.github.com"
+  COMMIT_USERNAME: "CI Bot - DevTrilha"
+  COMMIT_EMAIL: "elogroupleomatos@users.noreply.github.com"
 
 jobs:
   generate_downloadable_files:

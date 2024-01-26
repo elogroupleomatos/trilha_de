@@ -5,11 +5,11 @@ on:
 
 env:
   BUMP_RELEASE_CONFIG_PATH: "./.bump-release.json"
-  GITHUB_REPOSITORY: "alura/techguide"
+  GITHUB_REPOSITORY: "elogroupleomatos/trilha_de"
   GITHUB_PR_NUMBER: ${{ github.event.issue.number }}
   GITHUB_TOKEN: ${{ secrets.GH_GLOBAL_TOKEN }}
   COMMIT_USERNAME: "CI Bot - DevSoutinho"
-  COMMIT_EMAIL: "13791385+omariosouto@users.noreply.github.com"
+  COMMIT_EMAIL: "elogroupleomatos@users.noreply.github.com"
 
 jobs:
   comment_checker:
