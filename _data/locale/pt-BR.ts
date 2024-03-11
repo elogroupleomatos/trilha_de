@@ -101,23 +101,23 @@ export default {
     },
     {
       "label": "Analistas de dados júnior",
-      "value": "front-end"
+      "value": "analista-junior"
     },
     {
       "label": "Analista de dados pleno",
-      "value": "back-end"
+      "value": "analista-pleno"
     },
     {
       "label": "Engenheiro de dados júnior",
-      "value": "mobile"
+      "value": "engenheiro-junior"
     },
     {
       "label": "Engenheiro de dados pleno",
-      "value": "data"
+      "value": "engenheiro-pleno"
     },
     {
       "label": "Engenheiro de dados sênior",
-      "value": "others"
+      "value": "engenheiro-senior"
     },
   ],
   "IMAGES.DISCOVER_IMAGE": "/assets/image/discover-illustration.svg",
